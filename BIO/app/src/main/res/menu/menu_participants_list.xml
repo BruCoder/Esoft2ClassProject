@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pt.ipleiria.estg.dei.ei.es2.bio.ParticipantsListActivity">
+    <item android:id="@+id/action_checkin" android:title="@string/action_checkinTxt"
+        android:showAsAction="always" android:icon="@drawable/ic_action_name" />
+</menu>

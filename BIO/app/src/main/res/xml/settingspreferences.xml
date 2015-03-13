@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <pt.ipleiria.estg.dei.ei.es2.bio.MyEditTextPreference
+        android:key="NAME"
+        android:summary="Introduza o seu nome"
+        android:title="Nome"
+        android:defaultValue="" />
+    <pt.ipleiria.estg.dei.ei.es2.bio.MyEditTextPreference
+        android:key="EMAIL"
+        android:summary="Introduza o seu email"
+        android:title="Email"
+        android:defaultValue="" />
+</PreferenceScreen>

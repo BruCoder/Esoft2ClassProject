@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BIO</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_checkinTxt">checkin</string>
+    <string name="title_activity_participants_list">Participants List</string>
+    <string name="titleConfirmation">Confirmação</string>
+    <string name="okBtn">Sim</string>
+    <string name="shareConfirmation">Pretende apresentar a informação de contacto com os restantes participantes?</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="confirmBtn">OK</string>
+
+</resources>
